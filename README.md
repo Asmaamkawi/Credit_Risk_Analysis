@@ -3,9 +3,9 @@
 # Overview: #
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, we had to employ different techniques to train and evaluate models with unbalanced classes. We used imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
-# Results:#
+# Results:
 
-* Naive Random Oversampling:
+# * Naive Random Oversampling:
 
 ![alt text](https://github.com/Asmaamkawi/Credit_Risk_Analysis/blob/main/resources/Images/Naive%20Random%20Oversampling.PNG)
 
@@ -15,7 +15,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * F1: 2%
 
 
-* SMOTE Oversampling:
+# * SMOTE Oversampling: 
 
 ![alt text](https://github.com/Asmaamkawi/Credit_Risk_Analysis/blob/main/resources/Images/SMOTE%20Oversampling.PNG)
 
@@ -25,7 +25,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * F1: 2%
 
 
-* Undersampling:
+# * Undersampling:
 
 ![alt text](http://url/to/img.png)
 
@@ -35,7 +35,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * F1: 1%
 
 
-* Combination (Over and Under) Sampling:
+# * Combination (Over and Under) Sampling:
 
 ![alt text](https://github.com/Asmaamkawi/Credit_Risk_Analysis/blob/main/resources/Images/Combination%20(Over%20and%20Under)%20Sampling.JPG)
 
@@ -45,7 +45,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * F1: 2%
 
 
-*Ensemble Learners:
+# *Ensemble Learners:
 
 ![alt text]https://github.com/Asmaamkawi/Credit_Risk_Analysis/blob/main/resources/Images/Ensemble%20Learners.JPG)
 
@@ -55,7 +55,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * F1: 52%
 
 
-*Easy Ensemble AdaBoost Classifier:
+# *Easy Ensemble AdaBoost Classifier:
 
 ![alt text](https://github.com/Asmaamkawi/Credit_Risk_Analysis/blob/main/resources/Images/Easy%20Ensemble%20AdaBoost%20Classifier.JPG)
 
